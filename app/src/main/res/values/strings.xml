@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Ejercicio1_domingo29</string>
+    <string name="label_nombre">Nombre de persona</string>
 </resources>
